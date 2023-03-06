@@ -2,9 +2,9 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/goit-js-hw-09",
+  "homepage": "https://karina1715.github.io/goit-js-hw-09",
   "scripts": {
-    "start": "parcel src/*.html",
+    "start": "parcel src/*.html -p 505 --open",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
   "repository": {
